@@ -10,7 +10,9 @@ Instructions:
 
 Here's what I was able to get in 367 generations (about 102 hours):
 
-![SNAKE_GIF](https://github.com/Elijahjoseph23/NEATSnake/assets/123312395/3c600a27-11f8-4eef-9246-311528605e82)
+
+https://github.com/Elijahjoseph23/NEATSnake/assets/123312395/daf63b25-272e-4fc8-8b75-afa7f773950f
+
 
 
 
